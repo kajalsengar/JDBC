@@ -32,7 +32,7 @@ public class LoginPage {
                            System.out.println("you are logined...:)");
                        else System.out.println("Incorrect password, Try Again..");
 
-                       new RegisterPage();
+                       new ProfilePage();
                        Loginpage.dispose();
                    }
                    );
