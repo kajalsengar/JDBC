@@ -44,7 +44,7 @@ public class RegisterPage {
                 System.out.println(email);
                 System.out.println(password);
 
-                new ProfilePage();
+                new LoginPage();
                 RegisterPage.dispose();
             }
         });
