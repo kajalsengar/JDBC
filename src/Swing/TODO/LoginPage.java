@@ -28,7 +28,7 @@ public class LoginPage {
 
            submit.addActionListener( e-> {
                        String Password = passwordTF.getText();
-                       if (Password.equals("kajal"))
+                       if (Password.equals("@kajal"))
                            System.out.println("you are logined...:)");
                        else System.out.println("Incorrect password, Try Again..");
 
